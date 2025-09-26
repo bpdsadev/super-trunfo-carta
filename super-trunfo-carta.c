@@ -75,7 +75,7 @@ int main() {
 
             int val1_c1, val2_c1, val1_c2, val2_c2;
 
-            // Pegando os valores do primeiro atributo para cada carta
+            
             if(atr1 == 1) {
                 val1_c1 = carta1.forca;
                 val1_c2 = carta2.forca;
