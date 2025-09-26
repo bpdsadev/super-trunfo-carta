@@ -25,5 +25,4 @@ gcc super_trunfo.c -o super_trunfo
 
  Autor
 
-Bruno Peterson – Ciência da Computação – Faculdade Estácio
-Disciplina: Introdução à Programação de Computadores
+
