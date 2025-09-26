@@ -23,6 +23,6 @@ Como executar
 gcc super_trunfo.c -o super_trunfo
 ./super_trunfo
 
- Autor
+
 
 
